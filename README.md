@@ -7,8 +7,8 @@
 * Google Apli Client 2.7
 * Laravel 8.12
 
-### Dependencias de servicios externos
-* Firebase para notificaciones push cuenta: craneapps21@gmail.com
+### Dependencias de servicios externos cuenta: craneapps21@gmail.com
+* Firebase para notificaciones push
 * Google Cloud
     * Directions API
     * Maps Javascript API
