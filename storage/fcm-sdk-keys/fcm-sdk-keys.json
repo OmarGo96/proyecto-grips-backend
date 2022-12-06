@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "craneapps2021",
+    "private_key_id": "d26f9d2a16f0bbd080eb4eb1a470a79df794fec9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKOZh/zUZbcXQ9\nbXrN5EXFsvpI4dMCZP4a8ctSTqdEGFRr5XJeb9lQxPhSWAwGWIAJK+UIMEhr2Lqk\nu1T3Awtxu5DeYh84sd+x7/bHU8R0Q/Zd610ipaljtUNRVikDr7qmVC7+hUFMGfTj\ncnm8iRJRSTHNBe1weWNYLj7H0GJXrGhrVYTJmPcA+vt9aWtdGdHMhp7sApmtKTNg\nUIo5yV5Eyow79s/dhhCpF4yrYVaik2m+gsl+sD607Bj25CJt1AhGtCqKGShHrfny\nfAsEtaThCvu83OnOkuYDq1Z3XQwvdhw3E9COwLnzIwKetm7cZm5DDwd3+dg55Kt5\nsWCMTNUzAgMBAAECggEAAZ2HKdIuczGLT6hNuFJP+l3NIQLoyBadbwKqcJxfOqyF\nFB2PldCH6FzCbQn2AqD3WNtoZ3HXSkE/cGxsp9J253ArnpMjE7VcB5RWoM36/kDC\nuYpVQp8XJMxAXuh0yGpBb+2xOGhBFsYITj7OWSKxKkQO6UfYVzMpB33LE5aHCpM6\n08AnsZVaFrEqalXT8RGDbFbkzxP7VDzNOG2zJhEl8oXDN7J67RgytwVPBtz2oky/\ndPQH0W8edMdponkxkDCiz39BjCfLpyre0SsMx3h4gJvCNVaNbjygGoJpgRvkxu6w\nsM58hsxsqFAfjVwyA5aWFIK17CNVHYJR0IiwYFYV6QKBgQD+2bRoHQK6J7qLybbR\nte0qua1jTYOXytEmY/H/4FO4gPmZXsiLwEjoaKEP9TFey6TGdbz0d5MIvNBpvGym\n8ztONHSZO4yTfANAliMKxudVUFORH586qEWgYo9gAlOayIKshb+0s4Qdy2UwsCvx\nv7B3WHoD8NT7pTjPdxvo3EPAeQKBgQDLIx7RASoUulG+bt81sy1j5+eWGdShcNQJ\ncz0/43YhKHNt3wpDWBrGV29fh/rpSO5Ej6+xl2eYT7TJ73yZXaWvfgs4l/p1hEJT\noGLOmKQGLJXDkWCEdre2CYGr3zQLCc8wXd1cBc4dI7Er6z3GU258XtNlZ7jo4jZW\nVfWaZTwQCwKBgApMEZYDVhDfehIb3F8s0qBfUDoq7546e6jpcOW90qQp0ev4gHHl\nGw0I7TkP1ybVY5sBNtlJ248G0gTzsBAu076dL/jhBxUOdbMuXcwZrU8tJ7M9a9ma\n4vVQBisC7Q3b/CusW8qZVkU96qDE/YGPFTo9QPDX0kM4scrwLRiDjdlBAoGAVsz3\nChAZTyoea+Usc+HQb3RUvQrklOeFc1ROw9IKVDjYugYoeIZZSo9qA8QzLyP+zEUp\nqhUsKyVD91XiRBaECe0uFky6tSSCwwExt136GLlMdXjVaUThU2PUiQCjWGQkqGIz\niHLilAkAV+f5SZm1CGfspNQha0HePh4VCJhhhekCgYEA8TmkbnBPswgYrMjcMdsD\nAiLHzj0qdpefdREXtke5CPWj+/VfTlL4dafan/BDoTX67g8geOOz7q+ggZFsKTxE\n+LoS884C9kgKfKXXCtV+6QHFa14dziGVeOKzF5LK+PNJnTGHa/72QaP65SdMJ2tx\n/l07XiVh9ZP+Wje2mlVdh40=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-g921s@craneapps2021.iam.gserviceaccount.com",
+    "client_id": "102980990208030496363",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g921s%40craneapps2021.iam.gserviceaccount.com"
+}
